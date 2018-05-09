@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIDL Config</string>
+    <string name="connect">Connect</string>
+    <string name="proximity">Proximity</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="check_proximity">Check Proximity</string>
+</resources>
