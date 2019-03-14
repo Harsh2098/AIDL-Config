@@ -2,8 +2,9 @@ package com.hmproductions.aidlconfig;
 
 import android.content.Context;
 import android.os.RemoteException;
-import android.support.annotation.NonNull;
-import android.support.v4.content.AsyncTaskLoader;
+
+import androidx.annotation.NonNull;
+import androidx.loader.content.AsyncTaskLoader;
 
 public class ProximityLoader extends AsyncTaskLoader<Boolean> {
 
